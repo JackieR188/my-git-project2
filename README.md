@@ -1,6 +1,11 @@
 # My Git Project
 
-> My innocent little change
+> My innocent little change 
+
+> My scary merge conflict code
+
+> My code for the git project
+>>>>>>> origin/master
 
 ## I'm in the feature branch
 
